@@ -206,11 +206,11 @@ p {
 }
 
 /* ----------------------------------------------- シェフ */
-.shef::after{
+.chef::after{
   content: "シェフ";
 }
 
-.shef_bg{
+.chef_bg{
   background-color: #fdf5e6;
 }
 
